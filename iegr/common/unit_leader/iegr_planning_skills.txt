@@ -1,0 +1,59 @@
+leader_planning_skills = {
+
+	### NAVY ###
+	11 = {
+		cost = 76800
+		type = navy
+		modifier = {
+			naval_hit_chance = 0.55
+			naval_coordination = 0.22
+		}
+	}
+
+	12 = {
+		cost = 102400
+		type = navy
+		modifier = {
+			naval_hit_chance = 0.60
+			naval_coordination = 0.24
+		}
+	}
+
+	### Corps Commander ###
+	11 = {
+		cost = 76800
+		type = corps_commander
+		modifier = {
+			planning_speed = 0.55
+			max_planning = 0.22
+		}
+	}
+	
+	12 = {
+		cost = 102400
+		type = corps_commander
+		modifier = {
+			planning_speed = 0.60
+			max_planning = 0.24
+		}
+	}
+	
+	### Field Marshal ###
+	11 = {
+		cost = 76800
+		type = field_marshal
+		modifier = {
+			planning_speed = 0.55
+			max_planning = 0.22
+		}
+	}
+	
+	12 = {
+		cost = 102400
+		type = field_marshal
+		modifier = {
+			planning_speed = 0.60
+			max_planning = 0.24
+		}
+	}
+}

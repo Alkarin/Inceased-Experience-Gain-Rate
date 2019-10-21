@@ -1,0 +1,53 @@
+leader_attack_skills = {
+
+	### NAVY ###
+	11 = {
+		cost = 76800
+		type = navy
+		modifier = {
+			naval_damage_factor = 0.55
+		}
+	}
+
+	12 = {
+		cost = 102400
+		type = navy
+		modifier = {
+			naval_damage_factor = 0.6
+		}
+	}
+
+	### Corps Commander ###
+	11 = {
+		cost = 76800
+		type = corps_commander
+		modifier = {
+			offence = 0.275
+		}
+	}
+
+	12 = {
+		cost = 102400
+		type = corps_commander
+		modifier = {
+			offence = 0.3
+		}
+	}
+	
+	### Field Marshal ###
+	11 = {
+		cost = 76800
+		type = field_marshal
+		modifier = {
+			offence = 0.275
+		}
+	}
+
+	12 = {
+		cost = 102400
+		type = field_marshal
+		modifier = {
+			offence = 0.3
+		}
+	}
+}

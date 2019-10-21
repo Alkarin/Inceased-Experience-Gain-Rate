@@ -1,0 +1,55 @@
+leader_logistics_skills = {
+
+	### NAVY ###
+	11 = {
+		cost = 76800
+		type = navy
+		modifier = {
+			naval_hit_chance = 0.55
+			naval_coordination = 0.22
+		}
+	}
+
+	12 = {
+		cost = 102400
+		type = navy
+		modifier = {
+			naval_hit_chance = 0.60
+			naval_coordination = 0.24
+		}
+	}
+	
+	### Corps Commander ###
+	11 = {
+		cost = 76800
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.275
+		}
+	}
+
+	12 = {
+		cost = 102400
+		type = corps_commander
+		modifier = {
+			supply_consumption_factor = -0.3
+		}
+	}
+	
+	### Field Marshal ###
+	11 = {
+		cost = 76800
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.275
+		}
+	}
+
+	12 = {
+		cost = 102400
+		type = field_marshal
+		modifier = {
+			supply_consumption_factor = -0.3
+		}
+	}
+}

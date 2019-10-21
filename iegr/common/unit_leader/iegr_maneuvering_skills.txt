@@ -1,0 +1,21 @@
+leader_maneuvering_skills = {
+
+	### NAVY ###
+	11 = {
+		cost = 76800
+		type = navy
+		modifier = {
+			positioning = 0.275
+			naval_retreat_speed = 0.11
+		}
+	}
+
+	12 = {
+		cost = 102400
+		type = navy
+		modifier = {
+			positioning = 0.3
+			naval_retreat_speed = 0.12
+		}
+	}
+}

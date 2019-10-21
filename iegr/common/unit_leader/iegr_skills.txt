@@ -1,0 +1,63 @@
+leader_skills = {
+
+	### NAVY ###
+	10 = {
+		cost = 38400
+		type = navy
+		modifier = {
+			naval_hit_chance = 0.50
+			naval_coordination = 0.20
+		}
+	}
+
+	11 = {
+		cost = 51200
+		type = navy
+		modifier = {
+			naval_hit_chance = 0.55
+			naval_coordination = 0.22
+		}
+	}
+
+	12 = {
+		cost = 76800
+		type = navy
+		modifier = {
+			naval_hit_chance = 0.60
+			naval_coordination = 0.24
+		}
+	}
+
+	### Corps Commander ###
+	10 = {
+		cost = 12500
+		type = corps_commander
+	}
+
+	11 = {
+		cost = 15000
+		type = corps_commander
+	}
+
+	12 = {
+		cost = 17500
+		type = corps_commander
+	}
+	
+	
+	### Field Marshal ###
+	10 = {
+		cost = 12500
+		type = field_marshal
+	}
+
+	11 = {
+		cost = 15000
+		type = field_marshal
+	}
+
+	12 = {
+		cost = 17500
+		type = field_marshal
+	}
+}

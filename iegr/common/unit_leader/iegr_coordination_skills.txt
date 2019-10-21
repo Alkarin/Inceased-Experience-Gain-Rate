@@ -1,0 +1,19 @@
+leader_coordination_skills = {
+
+	### NAVY ###
+	11 = {
+		cost = 76800
+		type = navy
+		modifier = {
+			naval_coordination = 0.22
+		}
+	}
+
+	12 = {
+		cost = 102400
+		type = navy
+		modifier = {
+			naval_coordination = 0.24
+		}
+	}
+}
